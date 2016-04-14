@@ -1,0 +1,1402 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GXbVfC/zqIq/4SXoJD3JoA==
+SHA1-Digest: 62ydeAAHNEusBpRVkA8n4O5fPLk=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zJcyYHjbalb9q1Iub5cdXg==
+SHA1-Digest: wtMq9R2poFciiLwT6rEgwHW0aeo=
+
+Name: build.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9i4xyQJw0DhRrS5jEFRqGQ==
+SHA1-Digest: MhAC8+1A9DuC9Gat6b07BBO58y0=
+
+Name: build_eANT.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VZejl+4FrD17nPTARDH4fA==
+SHA1-Digest: 8s4vLYiXFUwldUNm462qoUynDhY=
+
+Name: version.log
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xhnXON4bJuVxlH1p0U64qg==
+SHA1-Digest: DT6H/AHGZhDqikDdiOv1ngp1rDg=
+
+Name: chrome/content/reminderfox/about.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9tt5iBplPbS4OyqxsAS9UQ==
+SHA1-Digest: 0s19utKnNZDvl5LOQ0c24GHxRoU=
+
+Name: chrome/content/reminderfox/addreminder-dialog.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6yv60D7Bkl9G3AtTq/k5Pg==
+SHA1-Digest: RyiFFY7SY8wnfTE7648ap8O9f64=
+
+Name: chrome/content/reminderfox/addReminderDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bM/oMkLZUhinm+8Ajg6wGg==
+SHA1-Digest: 9KRGBuOynpLEtqLsa46efr6XOos=
+
+Name: chrome/content/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6Zg6oxqCC4hdXHVE3I5jDw==
+SHA1-Digest: 8tgwQ0d6YgXVcv5lIrY7owV8y/g=
+
+Name: chrome/content/reminderfox/reminderFox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8O34r5pde4jYvJ8QXbkR8A==
+SHA1-Digest: MgMtWFRpAIO9cUq2WZbKxyS1XRk=
+
+Name: chrome/content/reminderfox/reminderFoxCore.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J7VkIkDUTG4NSpm7WJcxbg==
+SHA1-Digest: Fz5hU41Ucnm1MRXd+vpF1UQYDrM=
+
+Name: chrome/content/reminderfox/reminderFoxOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NQlpIRj1SW3L710VZVWqmw==
+SHA1-Digest: bBmM3w8vvJZSDQ32q52/PSAtxG8=
+
+Name: chrome/content/reminderfox/alarms/alarmDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +fwJJKdqB41VPVEcbhKG1w==
+SHA1-Digest: fOtNqnAKVu0rMteLsHjJXzuKuVk=
+
+Name: chrome/content/reminderfox/alarms/alarmDialog.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N/cxMbz27AoDboNfpneDpw==
+SHA1-Digest: 5pvtXUJ4BIVbev13UfTulI3JRx0=
+
+Name: chrome/content/reminderfox/alarms/quickAlarmDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZIP2ICvBuoYyud44zCCjPw==
+SHA1-Digest: QZsiQeXqwwnMnYYWQ3pMjSbgbxM=
+
+Name: chrome/content/reminderfox/alarms/quickAlarmDialog.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gPcKHojFF3xS6vAS2GF/Hg==
+SHA1-Digest: T5zIesgCYtDB/XgceFGiiTmclCo=
+
+Name: chrome/content/reminderfox/alarms/suspendAlerts.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cQIrU+8gcn5szd1HzGIofg==
+SHA1-Digest: SuT9FHAONPleg79CRCE4Z1+nFVE=
+
+Name: chrome/content/reminderfox/alarms/suspendAlerts.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8ab801G+EA1CyyjrTT+/OQ==
+SHA1-Digest: EzHKQVPQW4sbfWJFg/Xcoz6hZSk=
+
+Name: chrome/content/reminderfox/caldav/calDAVcalls.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fDUyEitVStjrvRRNi+r5cw==
+SHA1-Digest: cFxWOUZREbp80MxkDvPkIKfdUTw=
+
+Name: chrome/content/reminderfox/caldav/calDAVedit.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QCVd/x4vs1q6817aVV4Tjg==
+SHA1-Digest: 6jvpce+zRUIcWzCoKdLIMxyFisU=
+
+Name: chrome/content/reminderfox/caldav/calDAVrequester.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Z/XDQPy6FuI/yXVNBU6Ag==
+SHA1-Digest: a1csla59vJso9cpTH5oFr8je4ag=
+
+Name: chrome/content/reminderfox/caldav/calDAVupdate.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fn73h/jDvAeQck5Je8I94g==
+SHA1-Digest: plR0Pfd+gK4OwFSSWNzY5KA6FGQ=
+
+Name: chrome/content/reminderfox/caldav/optionsCalDAVoverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J0faB6tv5L7BgTOP2ADC0g==
+SHA1-Digest: miGe/FFerzbxOTMWjfjziyGwvHU=
+
+Name: chrome/content/reminderfox/calendar/calendarWidget.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y7GiBMSDVhPSdGliRjnj+g==
+SHA1-Digest: TDyKGjd4nALS1u0QcqPAfOfQdFM=
+
+Name: chrome/content/reminderfox/calendar/calendarWidget.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NQvTOatb6z6qhFTOdhmPUg==
+SHA1-Digest: sxEHMn7d7HzbB+ncpIUQed9zUCQ=
+
+Name: chrome/content/reminderfox/categories/addCategory.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hmXv7H8TJaHnlo8PoPRP2A==
+SHA1-Digest: 3hVxLf08SSYvLeCc+76mwYN2Qmw=
+
+Name: chrome/content/reminderfox/categories/categories.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dlk7OxgZSsA1knivkVhKow==
+SHA1-Digest: qew9iUDKm9nM+HB/oTomxih5fKw=
+
+Name: chrome/content/reminderfox/categories/currentCategories.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HdmId9SPNhPdDAHvTlgAyg==
+SHA1-Digest: yXiHoRwNIpvOOG14d+c+zhodQEU=
+
+Name: chrome/content/reminderfox/categories/manageCategories.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w/J1PZr8fDfugCE8VeKLDQ==
+SHA1-Digest: pBGBd0Ow9skWuO4eq54f3oSmYqU=
+
+Name: chrome/content/reminderfox/categories/manageCategoriesOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1JXM1hUjtbElIxcRjcv0Qw==
+SHA1-Digest: UA0GD1H4GNI1DSxNBFMGfgGg8f0=
+
+Name: chrome/content/reminderfox/categories/rmFxImportWithCategory.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mORwPyLg97FFT+lWfYhupA==
+SHA1-Digest: fuWmpkWZsBy/+n5n3vtrUNkt4CM=
+
+Name: chrome/content/reminderfox/categories/rmFxViewEditor.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yPtzdup0k7z39gSybfs+Ng==
+SHA1-Digest: F2LhURsWjyFXZVA5Yc3lEAjvcZM=
+
+Name: chrome/content/reminderfox/categories/rmFxViews.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: svHcnbGX55KBtMFsUUsH1w==
+SHA1-Digest: hUXMpU3mUVWLP3JRSIfkXGWcIPE=
+
+Name: chrome/content/reminderfox/datepicker/datepicker.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JTGJFPrtqKMqQ1IoYodgfw==
+SHA1-Digest: 9rL3CeFV40w6CUheL0k4kuGYf30=
+
+Name: chrome/content/reminderfox/editing/eventEntry.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hKHLiUMC7C7v1dsob2ftLw==
+SHA1-Digest: yNZqGdOnehw9LsiqepMoqMkXf54=
+
+Name: chrome/content/reminderfox/editing/eventEntryOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RfvrC6NTd0JJMmJFIVjRVA==
+SHA1-Digest: 5gAKNh8U4Ky5WzRpfjsrC9GDNFc=
+
+Name: chrome/content/reminderfox/editing/reminderEventDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xerYRhr23bgrEQF0cvCGPw==
+SHA1-Digest: /VqHQYdzizTdd1vuJCY11C677hs=
+
+Name: chrome/content/reminderfox/editing/reminderEventDialog.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zlIctdbnaqrJehrFg45Qnw==
+SHA1-Digest: 2Dig2WWzelFVA5OVGRNAcS9e4YU=
+
+Name: chrome/content/reminderfox/editing/reminderOptionsDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qyupSZMIl2Q+EgtJWaZS1g==
+SHA1-Digest: axKtSYG1DF9wBToATloOOSjyMoU=
+
+Name: chrome/content/reminderfox/editing/repeatDialog.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PrgDcEV9cKTzPT3hB+ZQBg==
+SHA1-Digest: 4GiWfKfdDsVKzOIHFQypMqXLAfM=
+
+Name: chrome/content/reminderfox/editing/repeatDialog.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lCDQvRz+zx5MwOwnPi2ifQ==
+SHA1-Digest: HOOI3BWXiJeb5tNUVCo3/25tctA=
+
+Name: chrome/content/reminderfox/mail/addContact2Reminder.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z8LOMdgBs6aXdyJR4G68wA==
+SHA1-Digest: QAkb1uv9iXEIo7bkoBLkK/Qm1Dc=
+
+Name: chrome/content/reminderfox/mail/invitation.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qhoywZu86bYtk+lnPjMhRg==
+SHA1-Digest: 00jycFLHQlwvzecwMQ8OE9rK6Ps=
+
+Name: chrome/content/reminderfox/mail/rmFxIcalMail.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U9819uNh9ExT69fJMz2hLA==
+SHA1-Digest: tM6P/qFTqonaiR+btqSGdNDkBqQ=
+
+Name: chrome/content/reminderfox/mail/rmFxMail.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TUnwlBFZXrgmZy6ATpxdgQ==
+SHA1-Digest: IjEHy2sAQz/kStREbCaq/Jurykg=
+
+Name: chrome/content/reminderfox/mail/rmFxMailIcon.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2M1Tdx0pJnXLD0v35YSP0A==
+SHA1-Digest: EmJ1HUxTuv0nvhW1GRd11jklka4=
+
+Name: chrome/content/reminderfox/mail/rmFxMsgTagging.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i1f8g+F3+F8RAqstaPkJ9A==
+SHA1-Digest: SXNfx/rwf9B+LqmGVU87pMV2VdU=
+
+Name: chrome/content/reminderfox/mail/rmFxReplyAttendees.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vGyL5g5Te4GWw8B1buIvug==
+SHA1-Digest: hOiWI4Jcq7gGFuikl/mQ+A1WW5w=
+
+Name: chrome/content/reminderfox/mail/rmFxSendwReminder.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vPn2NxFpGqtFhXM/LebHLQ==
+SHA1-Digest: Zfi2PGFwyZ8FaM6Wwp/po7b1v6s=
+
+Name: chrome/content/reminderfox/mail/rmFxSendwReminderList.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CjF6XVRox+Ye4dJO4/5KTQ==
+SHA1-Digest: bF3LnHnoFXQ8wWPq0RH2yM/MpjY=
+
+Name: chrome/content/reminderfox/mail/rmFxStartup4msgID.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tkVklpq4bLM6xjDF74xcSQ==
+SHA1-Digest: gH5uefWCiCt8amiXsrA0gOfCCcI=
+
+Name: chrome/content/reminderfox/mail/schedule.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nCZIoAQD7XMRMapIEGVEqw==
+SHA1-Digest: U8r418H509AuU0/Nyd++o1zQYBg=
+
+Name: chrome/content/reminderfox/mail/scheduleOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B7viXfVAEbhf/b0sbiHo6Q==
+SHA1-Digest: Y3GZu12h8vEbBFb+J9B4V+p+h3M=
+
+Name: chrome/content/reminderfox/network/download.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D9WuDKLlfYbj8XYl92w/7A==
+SHA1-Digest: PjQ2WBWyNqbEuxSC0S7pEOLpGV8=
+
+Name: chrome/content/reminderfox/network/download.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: clWJV45VDpqoOuMgCBXUOg==
+SHA1-Digest: hx054KmX94T7fseesLcJPZc99AE=
+
+Name: chrome/content/reminderfox/network/networkService.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i6m/1uI5bSKVFErVtg+l7g==
+SHA1-Digest: WNeadPhQVyniguFxitROAi/uDfw=
+
+Name: chrome/content/reminderfox/network/passwordManagerUtils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5V2X0ojpq6rC3e1fy+j4zw==
+SHA1-Digest: jdhcWF4HMVo/4bux7TjgXEROjKE=
+
+Name: chrome/content/reminderfox/network/upload.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gTjPMrYkOPvx+BCIUHUhUQ==
+SHA1-Digest: CB7Xq8Z7GL7JQNN1EagGljpgQBE=
+
+Name: chrome/content/reminderfox/network/upload.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2t7Af3hhl5J+f9XcPikzWg==
+SHA1-Digest: CQ3I1odxmSo97I5JxmSC4ofMoOY=
+
+Name: chrome/content/reminderfox/newAlert/newAlert.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HaIknk6WJLFfhqhN8WnziA==
+SHA1-Digest: F1GnvtrHl8ZAEzm8eqAhBeHwVyk=
+
+Name: chrome/content/reminderfox/newAlert/newAlert.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: abEv+BIyTeKKGuYfRfg5QQ==
+SHA1-Digest: 660QTsDQHZ9wXzYZK4JhihiUrZo=
+
+Name: chrome/content/reminderfox/newAlert/newAlert.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iYKENoBy8MaDzB7AMDsi3Q==
+SHA1-Digest: bnMsLbONJ04ZkGow4YP3t0dFQcM=
+
+Name: chrome/content/reminderfox/newAlert/newAlertFade.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v297THfEUMXVw39fXWCjyw==
+SHA1-Digest: OPaVdV/2Ydn73wsHVkCswJgplcU=
+
+Name: chrome/content/reminderfox/options/addCustomList.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0BVKnjhJj3caA23SjzdUjw==
+SHA1-Digest: D2auTrTFf6ZwE4HWaQcrHBcnng4=
+
+Name: chrome/content/reminderfox/options/calDAVaccountsHandling.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2D9hq6iaBpD+io94yilYiQ==
+SHA1-Digest: KO4KHYruoeF8XAfYfOsMMUSXjv0=
+
+Name: chrome/content/reminderfox/options/defaultMoreOptions.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HDsluzqE4WU1+jtF7r+UzA==
+SHA1-Digest: oO7wMLZfZZoRCNmxRPlxWViKpQo=
+
+Name: chrome/content/reminderfox/options/listDateLabelOptions.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 73x4R/ckIFircgFerm+mZQ==
+SHA1-Digest: /y10thQPXj2qRcyQBa7N3tlhDkE=
+
+Name: chrome/content/reminderfox/options/options.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xqb2XL5YeQvtzKxLva1kMQ==
+SHA1-Digest: /KsgLIT3jLCXzJbsLs+T75+DxgA=
+
+Name: chrome/content/reminderfox/options/reminderFoxOptions.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8fxk/ILOCk4nddYZPUHf4A==
+SHA1-Digest: kfi5O2RaNtR2lf2gwk+KYD31pdw=
+
+Name: chrome/content/reminderfox/options/upcomingLabelOptions.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NUFBNNib1MmbqXqEMO0QpQ==
+SHA1-Digest: SgqeKLMoQJ8VIrqkLATOCwge/1E=
+
+Name: chrome/content/reminderfox/searchbar/rmSearch.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xHLVl6gaPafzqv+3+4dOPw==
+SHA1-Digest: CcxjKk9FGozn3+WKj6mBvoKdhqQ=
+
+Name: chrome/content/reminderfox/utils/color.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZgA03X9UeImdzrj1ThNz3A==
+SHA1-Digest: wfXc8IBdDOQN1CRtRCNZDHsvsNw=
+
+Name: chrome/content/reminderfox/utils/HTTP.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ekw1oltRrhk5EckkSfRiaQ==
+SHA1-Digest: M7kBvwyBDlV8BZldICT2P8keqFo=
+
+Name: chrome/content/reminderfox/utils/rmFxImportHandling.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bs7HScysMjfAJrt+j/Kuyg==
+SHA1-Digest: IxxYtpvj75PKfsH6USCLT5DRo6M=
+
+Name: chrome/content/reminderfox/utils/rmFxPopupControl.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eS5Ucppwx0WzySfAXPn3GA==
+SHA1-Digest: zRETQTyz6WbHPquXm8rsOeac0Ns=
+
+Name: chrome/content/reminderfox/utils/rmFxUpdateXPI.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yMMfu5Sy76fvXVYIxUCksA==
+SHA1-Digest: W4+F1pMtYEETbuy1l4Ty3CqUiaY=
+
+Name: chrome/content/reminderfox/utils/rmFxUserIO.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZHIKK/gdQn+ebRUtZWJ9MA==
+SHA1-Digest: POpsMQFNqnjv8qikHHztgYuCw2g=
+
+Name: chrome/content/reminderfox/utils/rmFxUtils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QoPJhBAn+4bEQGD+H6YC2w==
+SHA1-Digest: xzYT0jU12yHW8kjoV7X01TlNZZw=
+
+Name: chrome/icons/default/editRemindersWindow.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J6Fahi1dYK/mjjW4eXbQIw==
+SHA1-Digest: jHywH1sA4Dty0h4cMqSERLGNarQ=
+
+Name: chrome/icons/default/editRemindersWindow.xpm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /tD9omwCHHm1t1KwkuRkKA==
+SHA1-Digest: 4owcrovZfHT3yrwXOat6nUUw26k=
+
+Name: chrome/icons/default/reminderFox-alarmDialog.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J6Fahi1dYK/mjjW4eXbQIw==
+SHA1-Digest: jHywH1sA4Dty0h4cMqSERLGNarQ=
+
+Name: chrome/icons/default/reminderFox-alarmDialog.xpm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /tD9omwCHHm1t1KwkuRkKA==
+SHA1-Digest: 4owcrovZfHT3yrwXOat6nUUw26k=
+
+Name: chrome/locale/ar/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sB9NI/8/2E5z762zIt1D+g==
+SHA1-Digest: FA7ewHa7VO0uu3EvFVER61+cF0E=
+
+Name: chrome/locale/ar/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mXVu57kGu/MKTW1JM1B4ig==
+SHA1-Digest: Jx9afbz757A0dEVFJaIqtRkytIU=
+
+Name: chrome/locale/ar/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QWxLgcoAWBACH4I4z2R2oA==
+SHA1-Digest: Z0xxBY2rWJ/iMGKzHvQwRY0umfs=
+
+Name: chrome/locale/be-BY/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tpA6W+jAsKeVLIzC1E0qBQ==
+SHA1-Digest: F9Im386WpRq3Ro3qTj9pWNL+VEc=
+
+Name: chrome/locale/be-BY/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WgXIvRrpKRwcuz+HM4+zkQ==
+SHA1-Digest: KKQ1qa4q/cYdb2L4pUO0sEmasDQ=
+
+Name: chrome/locale/be-BY/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jkpbmfC0213t5K61PPQZeQ==
+SHA1-Digest: zQ+XwWdPbz5S9NyLS0zeLjbqXxA=
+
+Name: chrome/locale/ca-AD/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vLu6XTc6j8cXzPL+h+8K1g==
+SHA1-Digest: n7kPyBKN6cpzF8eHV4+twg3/FDo=
+
+Name: chrome/locale/ca-AD/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wgGjBUQcqyftCtGWpr3wkg==
+SHA1-Digest: HEDR49n6N+w54EO9W5Xejk3JPwk=
+
+Name: chrome/locale/ca-AD/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PdPJRsQf1o+ZH0Nz8n7lWA==
+SHA1-Digest: JnMCRXkjHLlcNLNx8VIqdHghvXI=
+
+Name: chrome/locale/cs-CZ/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kQuqj9ADPy5vBBvESeU/yg==
+SHA1-Digest: 7ZtrZTxO7zShBK6Dz5kOeIUe3Fg=
+
+Name: chrome/locale/cs-CZ/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qkp4qk8L48b+Kc4/RIr3yA==
+SHA1-Digest: txCO0ZJX8CtE4LoLxKP/1Y/yxq4=
+
+Name: chrome/locale/cs-CZ/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RtBUQtfXQX3En8r8AGjxvw==
+SHA1-Digest: znP3VaVBCwU+/47Qxj/Az/kLT+8=
+
+Name: chrome/locale/da/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dhDnd3AhFS5K03DNh5YNdw==
+SHA1-Digest: KbQDU/G1zRtZHZN9w72XCmKxCys=
+
+Name: chrome/locale/da/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yri37kSIkPzd3jYWx0J7Mg==
+SHA1-Digest: l6zH0Ri4JVJGslYpARq2ic5fviQ=
+
+Name: chrome/locale/da/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d6x7UL7xCEsdhCT4jE3TYQ==
+SHA1-Digest: vcbqZFv2UMmERkYj0L/MIW7eJLs=
+
+Name: chrome/locale/de/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pB6FmbqH1LMTv7owGjBZyA==
+SHA1-Digest: +YcGGtd8vrywhrJqCDeEEwVH7Lc=
+
+Name: chrome/locale/de/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0gFL51qFzORsFlcomTQONw==
+SHA1-Digest: ea2jVs6M75AxuzUkTSuV+jcDwi4=
+
+Name: chrome/locale/de/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cNHb5QbSKgLlUBZ2ibOpIA==
+SHA1-Digest: Fe48gJyp+XhLRn8nfF0AHG5n2BY=
+
+Name: chrome/locale/en-US/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f1K2ekhV+oNVCmDDHUAKTQ==
+SHA1-Digest: +wlAC2wI4GiXda1O7czV07YVNUI=
+
+Name: chrome/locale/en-US/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dnv8D4qf4eeBUarUVk659w==
+SHA1-Digest: 3n+/MEz8oCKEN1IM2wBv683bvio=
+
+Name: chrome/locale/en-US/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v432CsiVcK1HpJFfUIEEaQ==
+SHA1-Digest: uizsVxdANPIQkTwHpZJHZkb+2wA=
+
+Name: chrome/locale/es-ES/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H6UbX6/OnWtPF8d98nTf5g==
+SHA1-Digest: ngqzBMebscExf16uxwXLEBS3gn0=
+
+Name: chrome/locale/es-ES/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QUYZk8561/wSSA8QQtFZfQ==
+SHA1-Digest: Afnp/k4qCmzpwRfgsP0ay4wlH7c=
+
+Name: chrome/locale/es-ES/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O3O6auuRJE4EAFfnsNIXCQ==
+SHA1-Digest: k8jugKyjRwrsr8Xu8r8NjnsllVo=
+
+Name: chrome/locale/et-EE/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qMdwV1L8W3IsuCDAowxrDQ==
+SHA1-Digest: CwMi5Og1neUOpSSkTMk/KlGIaoY=
+
+Name: chrome/locale/et-EE/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lnLoVNmhNPmluAsX3rGRMw==
+SHA1-Digest: b9y8rXQK4C13f2yMVtzAhXKFCe8=
+
+Name: chrome/locale/et-EE/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +L2FZpPfstp2UgDFMbmb2g==
+SHA1-Digest: I6MCoXvYNWlOjl/6KDz2tjnSdnE=
+
+Name: chrome/locale/fi/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EGMXm20jUEEEWfmxINNtLA==
+SHA1-Digest: oJlgJrgVBLh+iCwoeLhqKHbW8C8=
+
+Name: chrome/locale/fi/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZYZXOvj0gLn/8APPD0fcVg==
+SHA1-Digest: /zlrLHIqfxmAEgAU+SiqgYuROTo=
+
+Name: chrome/locale/fi/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iLzrUpGHdC44C+/09py5ZQ==
+SHA1-Digest: Ko4kcgbazf37Y425ZFo9kwYZU04=
+
+Name: chrome/locale/fr/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A8eOn589Sv8yphRCb+0U/g==
+SHA1-Digest: wjXT9/Y4MkVNr5gG3vkEqA4pDzk=
+
+Name: chrome/locale/fr/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CckH0U9Grci6Z6wUz4RO5A==
+SHA1-Digest: qhY0yQkBaCB1mQ9Kauc9k5u61U4=
+
+Name: chrome/locale/fr/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3itkc0UWwsLIAKf91sUPig==
+SHA1-Digest: 23WPq6/1epvpAgqVVKx66Bj9i7c=
+
+Name: chrome/locale/fy-NL/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eGmn9KjbScQVs94ViqoJug==
+SHA1-Digest: MoTOUqW7G8BIKk2ndTpyF88ec9M=
+
+Name: chrome/locale/fy-NL/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6nz1NYKPQhfjn3RoJBuUAg==
+SHA1-Digest: 54czskuwSJXHx6AAkjIwy3sGX4o=
+
+Name: chrome/locale/fy-NL/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rAoOt/ydGazQqe0R7pc6Mw==
+SHA1-Digest: fzZtAiipnFbk6h/7Cqh0hB7m/9A=
+
+Name: chrome/locale/ga-IE/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ytOow0jpgu/rzp4aV+WjyQ==
+SHA1-Digest: rufJs0ce+LPEzseQ/wkzMcNipuM=
+
+Name: chrome/locale/ga-IE/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n3pRBaQQfcHrC6etozqE9Q==
+SHA1-Digest: t6XfX7dVTH7pIlIbqIfKyWyqzXE=
+
+Name: chrome/locale/ga-IE/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nX0YRXd6A8bBE4+MK8NlKg==
+SHA1-Digest: 2SWNhKTLbIb2POSdiaX0h04nix4=
+
+Name: chrome/locale/gl-ES/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UcvMye74i+Nt4sOZ5d/DdQ==
+SHA1-Digest: pWo+Wm5T6xSOhiszB6rQAWyg5DA=
+
+Name: chrome/locale/gl-ES/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kY7t7xzOM0iJXv8Gdi1+zQ==
+SHA1-Digest: TTrus88l8mWVuHdLCRuuq2ZJmFY=
+
+Name: chrome/locale/gl-ES/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +40LkyKE522SUwL67YaVsQ==
+SHA1-Digest: 3z9xu68B2jXWEZM489tNFa3PyWo=
+
+Name: chrome/locale/he-IL/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zcaDZPtUoHdWgv8YWH8DOQ==
+SHA1-Digest: q3QBS9TDIpjnt/ZxjUQtIcdt9Yk=
+
+Name: chrome/locale/he-IL/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4sbQ0LVWSpQqa6wFyWW6lw==
+SHA1-Digest: wThexcBr9sV8e/a2RE99FPZmE2Y=
+
+Name: chrome/locale/he-IL/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6uNWrofeiXzPXOFBWKBV2w==
+SHA1-Digest: OFNYVT7BhAY7wsmGUH0UIHdKFc4=
+
+Name: chrome/locale/hu-HU/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: akWh+kmU3UrsTTmwdWmlbA==
+SHA1-Digest: k6tc0vEQmwWZPXITBQ1QTKdZ+mU=
+
+Name: chrome/locale/hu-HU/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Npi9BZhxtf5lNaLt7YvLoA==
+SHA1-Digest: k6fguQG9sE+ny+/IWXZ+9rH2itc=
+
+Name: chrome/locale/hu-HU/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QVTQnWzZaBZY45SAckqvJg==
+SHA1-Digest: dDSHaZFTap7EJrMJLsqZE7z6FBA=
+
+Name: chrome/locale/it/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CPQEj7B6m5o0t0x8UW1mig==
+SHA1-Digest: tRGAEiXjkr0BFtR7BmHKuLPqsK8=
+
+Name: chrome/locale/it/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SrkGM8WRw23NAlh0imp8uQ==
+SHA1-Digest: fkHrvAwddxKSbJE0ltoxRkhwPhg=
+
+Name: chrome/locale/it/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dT++J8CjfmBCe1sXtd+2sA==
+SHA1-Digest: xxPj9KpuFpcAjZUguu6tco2shBE=
+
+Name: chrome/locale/ja-JP/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QKxtJBTI8wb/OTsrDDsXBg==
+SHA1-Digest: FZueat1rS5T5em8Uy+mHf8eNmMM=
+
+Name: chrome/locale/ja-JP/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7MUBBPDhhyd5i9mq1i2Uyg==
+SHA1-Digest: TZDw+QITdmNvlpbyFceCHXpCcj8=
+
+Name: chrome/locale/ja-JP/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /55blofWFHdpgIFrv981Lg==
+SHA1-Digest: mO/r7sSniYMteYBfZU2DR8Cl7eE=
+
+Name: chrome/locale/ko-KR/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IB+BL7YiMltDmXuP1J+8HA==
+SHA1-Digest: I9pJozwHDxHI2aHfK+xBpqVbO5w=
+
+Name: chrome/locale/ko-KR/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w5xjcaIhZFtz0hD5NrJzVg==
+SHA1-Digest: LWNgCc9jgo9D1V4LlRMbVclIHb0=
+
+Name: chrome/locale/ko-KR/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VoJkLVKtA+jjA5mt+SJF5w==
+SHA1-Digest: bDZTbknAxrFDpp0B+x/tYEqBzwc=
+
+Name: chrome/locale/mn-MN/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0+B/uHlBuFCkhjs7vfI5Iw==
+SHA1-Digest: 8fvt4+1c6GMA4/fZlwya+/giKXE=
+
+Name: chrome/locale/mn-MN/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t8/JL51SZte5tXXgNClzkA==
+SHA1-Digest: /MQTBsIuOOdwQV2bQSzzchAYzbI=
+
+Name: chrome/locale/mn-MN/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UwQeFHhLS57AWO5IjnZfEQ==
+SHA1-Digest: S+MNmdH0cojFeTmzRU4AQjibZUM=
+
+Name: chrome/locale/nb-NO/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ncua+G99XZ3e7E9sD7MzVQ==
+SHA1-Digest: KWwz2JTaaly0GITCb8XgsJwLv6w=
+
+Name: chrome/locale/nb-NO/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n3pRBaQQfcHrC6etozqE9Q==
+SHA1-Digest: t6XfX7dVTH7pIlIbqIfKyWyqzXE=
+
+Name: chrome/locale/nb-NO/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nX0YRXd6A8bBE4+MK8NlKg==
+SHA1-Digest: 2SWNhKTLbIb2POSdiaX0h04nix4=
+
+Name: chrome/locale/nl/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rh0l8tJSxBxNl9/jN5N99Q==
+SHA1-Digest: uxD/dewEy42TKdbxpJ/mjUNYppw=
+
+Name: chrome/locale/nl/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Deu5hwahjFHUICgW/MCRkQ==
+SHA1-Digest: DyFk/9C28YCXSvP5mp6jEPCnIGA=
+
+Name: chrome/locale/nl/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QhxVNZ4ojE1FJbuJfCE3gQ==
+SHA1-Digest: Qzlkbj65pwrawj8Yd1+f/7IJ6Jg=
+
+Name: chrome/locale/pl/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mdPBgcFKda/LUqGG07Y4dg==
+SHA1-Digest: WIj9Hlt3keSdu63emfwS9pkmbN0=
+
+Name: chrome/locale/pl/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 12WgJ90zADzN4lA217HSfA==
+SHA1-Digest: +Ua11hnJRTIN/oGOnYxQrx3aaT4=
+
+Name: chrome/locale/pl/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PNr+reMGLj1X07j9++Fmrw==
+SHA1-Digest: uo1rpLFmXgJU5kBech1HKZo1Qhk=
+
+Name: chrome/locale/pt-BR/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 43kbnDkPjmWFOsrATuEepg==
+SHA1-Digest: QeHSVSUYTmRKuhQUeAr0VQHUkMc=
+
+Name: chrome/locale/pt-BR/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ubc2k/ox0a8FgVD/v9G3Dw==
+SHA1-Digest: ecI9olyIahnoQ/kPw84tkowQkYA=
+
+Name: chrome/locale/pt-BR/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KZuMIeEWAup3IfWEHC0rcA==
+SHA1-Digest: pHHElTWy6vRb5vsrYXDAEdjI99Q=
+
+Name: chrome/locale/pt-PT/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DUcR5p44xotDMMuGo4s8UA==
+SHA1-Digest: gAqAjE0kMJr2XV8ESclPz14kvrQ=
+
+Name: chrome/locale/pt-PT/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r6rCK/pW0sF7qgW8gNsX+g==
+SHA1-Digest: c6bkgyQJ5R0rjgjVhvp+ydSxj0I=
+
+Name: chrome/locale/pt-PT/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QED9DoQ7KlMrNIwV6H6L2w==
+SHA1-Digest: 6GRJBe3tXrgSYNzlnroZNDzJKec=
+
+Name: chrome/locale/ro-RO/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /9fMOlW4cVpaL2j/Ksal6A==
+SHA1-Digest: JR1sW1DWulSSwFbYDz3z/Gve0Ak=
+
+Name: chrome/locale/ro-RO/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pn8PkEDjyDuSsc2dwyEoLQ==
+SHA1-Digest: lTSzZpizw7RGe88nzzyprGMHUEg=
+
+Name: chrome/locale/ro-RO/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y5NsV3HNMj4EICwQq2nZrQ==
+SHA1-Digest: RrzK6jaiuzpNws+F2GW4AZgBpRE=
+
+Name: chrome/locale/ru-RU/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4N5rotCVWDLlZc175r9ZaQ==
+SHA1-Digest: iuQbhdinQMwkjX2vSgZB4duKeAE=
+
+Name: chrome/locale/ru-RU/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z/VhwSz1VynDnTr9tGOZtg==
+SHA1-Digest: jl7m0UeBpQH3ZcHOtHNL0wy0TlI=
+
+Name: chrome/locale/ru-RU/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1me1P8R9aHm1x1y2G44U1g==
+SHA1-Digest: ui8dy6oG+Fd2Mv71lM3WTfHeNws=
+
+Name: chrome/locale/sk-SK/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ac8XYbXfOi7bvoSInbAEag==
+SHA1-Digest: VnCe993GM8iCgB43KjnbV81FA/w=
+
+Name: chrome/locale/sk-SK/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cPYQrIn7boKhvP4vuuS0fg==
+SHA1-Digest: z7k11TDZh3xVejq0DgW0P7+aR/E=
+
+Name: chrome/locale/sk-SK/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QYWIUByr9hvG9fDuVXtUfA==
+SHA1-Digest: uHWMWWTwGXBqhwmadTP0UStQqow=
+
+Name: chrome/locale/sv-SE/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BP/UGKe7tNBy3fFO+v3NDA==
+SHA1-Digest: U1dnjRwEJvxObVM1lAyt9w9PQ9s=
+
+Name: chrome/locale/sv-SE/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xt/1e3nOhVjw5/qGZfoFEA==
+SHA1-Digest: 8Xmm4c8bLxB2HzRwRaK5xW5MU5U=
+
+Name: chrome/locale/sv-SE/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: brSvnRueYnQ1VBJoG6YPHg==
+SHA1-Digest: TEWyIDrx9aFPucvLvvW5FmRMUiw=
+
+Name: chrome/locale/tr/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rhIB91764nm5OmjPsasSSw==
+SHA1-Digest: 7MgjwSRWxUE5v2y1ZNA2egFyGq0=
+
+Name: chrome/locale/tr/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Qd/Or7e2VLRmttfpC7/Ovg==
+SHA1-Digest: h2JvCM5TqK1f+ysXqE2XEoH58b8=
+
+Name: chrome/locale/tr/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1yvz1M94+/Uq0zNaeKQSmg==
+SHA1-Digest: Dist6ORy/eSQ3ZlDhexnuQ2QPA4=
+
+Name: chrome/locale/uk-UA/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O8nIZvxhHvaqichgQfD+ig==
+SHA1-Digest: 0HMguvGb+0agWCbeTI4a3mGpgK0=
+
+Name: chrome/locale/uk-UA/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VnHZgfRMC6tL4PY3UAB6Dw==
+SHA1-Digest: sgVfyfn2PCztSzgEJmksFrpRBjQ=
+
+Name: chrome/locale/uk-UA/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rg3f3Oe/S+EyHu+QzDlzpg==
+SHA1-Digest: YRbjcUt36UKVcU944iJmi2Jf3/o=
+
+Name: chrome/locale/vi/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7PmnV2rAZ4mIGM3X+Oy3xA==
+SHA1-Digest: LVMdHsjE/aWbXxhzJWMHAWugB20=
+
+Name: chrome/locale/vi/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n3pRBaQQfcHrC6etozqE9Q==
+SHA1-Digest: t6XfX7dVTH7pIlIbqIfKyWyqzXE=
+
+Name: chrome/locale/vi/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nX0YRXd6A8bBE4+MK8NlKg==
+SHA1-Digest: 2SWNhKTLbIb2POSdiaX0h04nix4=
+
+Name: chrome/locale/zh-CN/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DJWK+CRULELPNLLQqJKg8A==
+SHA1-Digest: HzRY49+6qUHDb4bXWwaBl0WE5hs=
+
+Name: chrome/locale/zh-CN/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k1wxkOqPQPCX8jD/Q0juSA==
+SHA1-Digest: 9wR75vq9yKo9XM1AaQb7EBQ4P2E=
+
+Name: chrome/locale/zh-CN/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 16WWAriEMVoiE2yU+UxPhA==
+SHA1-Digest: gXqh0UvoDySBB6Ox4Ml3VTsrEck=
+
+Name: chrome/locale/zh-TW/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RoGT6p/K73eMZoKVHdncpg==
+SHA1-Digest: QOyt0GUTSAkhZDcj/2Ic1jvPW50=
+
+Name: chrome/locale/zh-TW/reminderfox/reminderfox.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b3OtybSnSi4QQjp9kCjMTQ==
+SHA1-Digest: rNRaP5A/vQdgLuszKvfmH1jT7Qs=
+
+Name: chrome/locale/zh-TW/reminderfox/reminderfox.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pk57nygXtmDSBD688CvL8g==
+SHA1-Digest: zjWgToU/QRod95sLR0Dxo669wMM=
+
+Name: chrome/skin/reminderfox/catBox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hcGbJUoQey0QMd3LBql4mw==
+SHA1-Digest: cos4yhXe3ZCctFNNNbve8K2typs=
+
+Name: chrome/skin/reminderfox/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: scAZu+nBrKti6sf1LTi/Jw==
+SHA1-Digest: T74Nfi7h8xHDYdIVKaSCCAgOijI=
+
+Name: chrome/skin/reminderfox/reminder.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 96E3B2erzI9orYLdQqwbXQ==
+SHA1-Digest: +tcg022t2PLhaSngYwd+wRSZriM=
+
+Name: chrome/skin/reminderfox/rmSearchBox.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tmlV69vOekFj1GP0j2X2Dw==
+SHA1-Digest: 1SrT8bZdWEFDC38oWpJKQ5XzPRQ=
+
+Name: chrome/skin/reminderfox/schedule.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xBe6JTUemEfhMpAMJJJnag==
+SHA1-Digest: V61HRGFClF45O4E0HQfquyNY7Og=
+
+Name: chrome/skin/reminderfox/toolbar.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +C8lGUQW7a636w17OmhZhg==
+SHA1-Digest: Xh1A+tIquvy3FTbpLr+p1ta6n24=
+
+Name: chrome/skin/reminderfox/views.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OJLzAPa/2LBuiQOlGqb/DA==
+SHA1-Digest: 5ZXYe3uFTFB4mufXfByMRlerCZg=
+
+Name: chrome/skin/reminderfox/datepicker/calendar-small-disabled.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q0TZEs+ZL9oQaOFtzp9zQg==
+SHA1-Digest: y2b9W1IQ8EiE0RbRbim5/x8tOrg=
+
+Name: chrome/skin/reminderfox/datepicker/calendar-small-today-light.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ou867l8XcOgUFct1ApfPaA==
+SHA1-Digest: FlI/4ypcCWl3yFmcrZ+ojP1uuoE=
+
+Name: chrome/skin/reminderfox/datepicker/calendar-small.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ntUC0VEp074jesACTdyedw==
+SHA1-Digest: 4AOotbPs+UjbeVCTDCZnuesQGj8=
+
+Name: chrome/skin/reminderfox/datepicker/calendar-up-med.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YuY4NndbRuKY52qnYofSFg==
+SHA1-Digest: lONZO4lMNhO5HquXM30ALJNOTKk=
+
+Name: chrome/skin/reminderfox/datepicker/calendar-up.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5jcOAMuRfes6qlZRS1ksCg==
+SHA1-Digest: 0gp3FjK00JcZXbXlAkDd5yG2Crk=
+
+Name: chrome/skin/reminderfox/datepicker/datepicker.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dALKM2bSuATR1Rbvm6+cCQ==
+SHA1-Digest: ADosR0sTuYfLjDjbNCpgZJfEjcs=
+
+Name: chrome/skin/reminderfox/images/abook.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /pcTuZ49U/uTZzJRQ0EEMg==
+SHA1-Digest: WRLx1MF3N76zjo3aHhXiJByl1ik=
+
+Name: chrome/skin/reminderfox/images/alarmbell.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nrLxNZ/fYH5uqfeejAHuVg==
+SHA1-Digest: PIt/rWGPeV6I3qyDXDS19gcxB+s=
+
+Name: chrome/skin/reminderfox/images/alarmbellSnooze.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G15fijABuu8NpeyD4n76Ag==
+SHA1-Digest: USrV/tRxJ0+7Zx4hLNnHd/B4CCA=
+
+Name: chrome/skin/reminderfox/images/book_open.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d3DINO90CwiCPIZIRICspw==
+SHA1-Digest: k86BEKq3lYzcCPt5RoJe7uiY2XU=
+
+Name: chrome/skin/reminderfox/images/book_open0.xcf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VzF02R9WH7SOiJzsFafaZw==
+SHA1-Digest: xecaekKz/sFnaS36F1dfuiO2q14=
+
+Name: chrome/skin/reminderfox/images/bow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RmukJepFBOr+PySshtPgxA==
+SHA1-Digest: If7IDPIvV9uvS3ZIxMnVqkgiH7c=
+
+Name: chrome/skin/reminderfox/images/category.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rK0YkufjOV2fy8w1GFDx1w==
+SHA1-Digest: pyynGis42MiHVqe5Bon0okiOWhg=
+
+Name: chrome/skin/reminderfox/images/Close.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ++xz32gM1DHwTPKOk3e78A==
+SHA1-Digest: jhfkgVqccBIJJORdd+xNGQ3QJz0=
+
+Name: chrome/skin/reminderfox/images/close.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7h607/eRKeau7XntOi2fCw==
+SHA1-Digest: iTy8yNjtkoRcODVHdACukPyUdmk=
+
+Name: chrome/skin/reminderfox/images/colorpicker.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NuOgk9x7tQwAJpfMuT/s4A==
+SHA1-Digest: ZTh5BWke48LNtfzJfjibf1vZuK4=
+
+Name: chrome/skin/reminderfox/images/down.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jCo9IdVoEzvUJNFr3mCoBQ==
+SHA1-Digest: 9X4AKEWWL/AZgvG0GVFRCPecQjI=
+
+Name: chrome/skin/reminderfox/images/foxy-head-16-grey.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ULOrQMJMzTpgss6HBo8tLg==
+SHA1-Digest: rrWzhnHdGdFss+eW7U9obuW8Q3Y=
+
+Name: chrome/skin/reminderfox/images/foxy-head-16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mNTjhZoVkSzR28V8bqmJNA==
+SHA1-Digest: Fkgi8jTK/juHdFfdU4mZLwVzOl8=
+
+Name: chrome/skin/reminderfox/images/foxy-head-20-grey.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Yg/+VQjgugxRm8xVzNERAA==
+SHA1-Digest: XdAVAkCsEzE2kwtkPBvZaRYpztM=
+
+Name: chrome/skin/reminderfox/images/foxy-head-20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5bMRyjcZbf8lszs+YxFcwQ==
+SHA1-Digest: 1vzXoXmUIYguVsTragbW5VhNqtM=
+
+Name: chrome/skin/reminderfox/images/foxy-head-25.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lZ6VzUmHKRPnYIVn2fIG8Q==
+SHA1-Digest: Ie904ZFAMEeTBrrskYtFYgBYo10=
+
+Name: chrome/skin/reminderfox/images/foxy-head.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M/2WWXNYmZAUEoLRDAwfeg==
+SHA1-Digest: KO1vX/0I1TlwKYKZydcStgdkGhQ=
+
+Name: chrome/skin/reminderfox/images/foxy-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ZQZR87JwtC/cwjeSO3ZtQ==
+SHA1-Digest: Z1z/AZ48N6jxZZBjyFiljtIO/g4=
+
+Name: chrome/skin/reminderfox/images/glyphicons_197_remove20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kgwdomcUnguzCflNKfbFBA==
+SHA1-Digest: 7ArepocaR/VD4PdwflOjyGVIMhI=
+
+Name: chrome/skin/reminderfox/images/glyphicons_197_remove20w.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kjiYs0wjpS2iAT6HNkTONA==
+SHA1-Digest: dRWsUAlw98Hp6rwgzI+1M1Hot0w=
+
+Name: chrome/skin/reminderfox/images/glyphicons_320_filter20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6ivhU4SLBDwue0bvoqkFpw==
+SHA1-Digest: PrFZvOLX0Ih+eJ6ye4XI3yzX+f0=
+
+Name: chrome/skin/reminderfox/images/glyphicons_320_filter20w.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vMvSMY69R/6lglHvNiVY3Q==
+SHA1-Digest: /JXOI0Ao+Cxuu5U7VRwRLbvXVOU=
+
+Name: chrome/skin/reminderfox/images/glyphicons_358_file_import20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TKV5b4icDN7C0oycZBkITw==
+SHA1-Digest: IFdjUW9fOJE8/0vA2BgIi+yBpHU=
+
+Name: chrome/skin/reminderfox/images/glyphicons_358_file_import20w.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KCvFx46jT2HdSRSJD83V8g==
+SHA1-Digest: aw1A1YAkzzav0UzUUsigzKtqAxk=
+
+Name: chrome/skin/reminderfox/images/glyphicons_359_file_export20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aFeHLu5snVLwjk3U/hI0Ew==
+SHA1-Digest: 4bhCK+0MxhA+WVG7X/r8I3cyYIo=
+
+Name: chrome/skin/reminderfox/images/glyphicons_359_file_export20w.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PbW0/hRb7nnOVutLoDce9g==
+SHA1-Digest: Pp7rp6OBnFsPkH0r0ScScks2bZA=
+
+Name: chrome/skin/reminderfox/images/icon_share_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RRcWibqrKTOZp6JZie4dyQ==
+SHA1-Digest: koeJaKqrAUeDycVJov0Uc3I4lv0=
+
+Name: chrome/skin/reminderfox/images/icon_share_20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DkmIIWvD72CB3G3FLQWt6g==
+SHA1-Digest: olJizNsdvp9e0d0ISRtzydI1YwM=
+
+Name: chrome/skin/reminderfox/images/icon_share_20w.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DSqLr9LuK/bz5M31WiWnfw==
+SHA1-Digest: 5C1tLgs7k5s1w8fxL7PTY7qLgDk=
+
+Name: chrome/skin/reminderfox/images/icon_share_24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VOwqcQ+qLGtM6HqnexO2kw==
+SHA1-Digest: zKkmtOspyF15BbzTxrW4H8gGW4k=
+
+Name: chrome/skin/reminderfox/images/info.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dOzAjy9nan1TFS8W5MgaCQ==
+SHA1-Digest: AiS60wa9YErjEX/7GZIMFj1063w=
+
+Name: chrome/skin/reminderfox/images/left.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z3btY9cmljTP+xzRXYgzzw==
+SHA1-Digest: p4vNF9lr4bGjw8tVBNcJNab/YI4=
+
+Name: chrome/skin/reminderfox/images/mail.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mU5VknYQ8MXTRSesygORKg==
+SHA1-Digest: 9zUToQnjmMzaOVgfk9q6Fz6NP9I=
+
+Name: chrome/skin/reminderfox/images/mailPopUp.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4vqwdiivdSweyVWGzm/S0w==
+SHA1-Digest: jJP5z0/Fc5L4Lk10ldRj9mqXZxo=
+
+Name: chrome/skin/reminderfox/images/menuicons16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fu8gOK7MXhJvf1vuEhqeZg==
+SHA1-Digest: Azn2oTW05/9Vun90tn/sYvRGkLY=
+
+Name: chrome/skin/reminderfox/images/noReminderBow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y1I8t9Jqcj0O8rgLx4BgGQ==
+SHA1-Digest: BmpkFCfprQHY9JJnYAnQXSXD2Pk=
+
+Name: chrome/skin/reminderfox/images/notes.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QAwdlNCABKSfuMDllED7SQ==
+SHA1-Digest: PBdI1vNNsy3FpF0eiy1ZColdQKE=
+
+Name: chrome/skin/reminderfox/images/quick-search-clear.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lj1gNETbGaP4SRwhiYUKTw==
+SHA1-Digest: +oH/+gn7HJ8uwSBFsP810eJac2U=
+
+Name: chrome/skin/reminderfox/images/repeat.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FFKjHGHsjtafwy5SUAqqxg==
+SHA1-Digest: CXYAkG7TUtq48zx9dYx+sgK7UY4=
+
+Name: chrome/skin/reminderfox/images/ribbon-blue-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XEjOQPE1z4itABxddwujsQ==
+SHA1-Digest: FhnptScG02X42f1Fc65fYn3PsGE=
+
+Name: chrome/skin/reminderfox/images/ribbon-red-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +rGwi6CJpxm0ARJZ60ayQQ==
+SHA1-Digest: FI7pu4hrPQxgOIOKpTnmCWBM+U0=
+
+Name: chrome/skin/reminderfox/images/right.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BRcztZIkh4JKl4Ro04m2rw==
+SHA1-Digest: qZ8KWQgY0xH0et+4fhbCZJj3HWM=
+
+Name: chrome/skin/reminderfox/images/search-arrow1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: d/HM0qSiElya05pFX6e2HQ==
+SHA1-Digest: +ijVC5AK99eD1kFiYcSAtK/dNJE=
+
+Name: chrome/skin/reminderfox/images/search-arrow2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2l2nZxSENlXNyQXyqO2OLQ==
+SHA1-Digest: khmJTvIcSw+so7V9le9FAViC6pc=
+
+Name: chrome/skin/reminderfox/images/Search-bar.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QNMDb51yI+RGfq88Xpt0tg==
+SHA1-Digest: vaMw/hSVUB5peBCZqB/rNdS7gYI=
+
+Name: chrome/skin/reminderfox/images/sendPlus.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zMOANhjQFb9P7q3sCZNyPg==
+SHA1-Digest: ju3RrLSdKPTGedX0eb/w+Bx3SY0=
+
+Name: chrome/skin/reminderfox/images/sendPlusSmall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qzzRfEuYUqDD7bd+bTdgpg==
+SHA1-Digest: TwAhol0dD6b7gcWM53gPKZl81I4=
+
+Name: chrome/skin/reminderfox/images/SendwRm16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: POO3LI68KdB0xylYP+8ofA==
+SHA1-Digest: FKxFAOaKPLVviUKUNn6q2vU5/ys=
+
+Name: chrome/skin/reminderfox/images/SendwRm24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oBrjJtOPXFVkLNofcuB11Q==
+SHA1-Digest: 5T0/pK7irMoV7Gde/6cxcyJpSSg=
+
+Name: chrome/skin/reminderfox/images/spyglass-blue1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CYV/+2DH3thIFANmm3YMOA==
+SHA1-Digest: h1lwiQxPO/VQqJ6wLVNIPv8CTXU=
+
+Name: chrome/skin/reminderfox/images/tooltip.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lA8BftubZFJrWcrMYcsDnA==
+SHA1-Digest: vewACkXduhlE60a/bj4VrfVAKPY=
+
+Name: chrome/skin/reminderfox/images/up.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YY+rubYwyzhrPRe+omre8g==
+SHA1-Digest: r+9yOouFThJvxvVks6qJ404Av+g=
+
+Name: chrome/skin/reminderfox/images/upcomingReminderBow.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: piI9jrshDM3RFGtQ0PZFag==
+SHA1-Digest: i+NGXk3AWK/T/GIkstkpBltAcgs=
+
+Name: chrome/skin/reminderfox/images/url.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v+8EzuuPrFC0o7RJmkmR2Q==
+SHA1-Digest: 9PnLTzZcYiCySqh9NCjTXKsKL7Q=
+
+Name: chrome/skin/reminderfox/images/view.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: agIiOsrIDw/mUdfKZKXllw==
+SHA1-Digest: UICmWuiBpbBE4ubHgFK3FEDxVAA=
+
+Name: chrome/skin/reminderfox/schedule/attendees28.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XVngtSm0WElVcuWPiqqA+Q==
+SHA1-Digest: NYFh/QjQ5bb23QdNGRFTAegKqP0=
+
+Name: chrome/skin/reminderfox/schedule/personsCopy_16.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Edk+WPoQOVz+jG3+Y654aw==
+SHA1-Digest: dbkuMeOkyMYkmXZ1gTV+fc4pYdc=
+
+Name: chrome/skin/reminderfox/schedule/personsCopy_20.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dD1RjJQxUwbujrJQE7ah7g==
+SHA1-Digest: OeVvm6atTbLIc4d7ji18xFAj6oM=
+
+Name: chrome/skin/reminderfox/schedule/personsCopy_24.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LqYuyGhkmGu9h5MW+fZCCA==
+SHA1-Digest: QEsR3dBhnvG5LDvgzHnxEGkyRw8=
+
+Name: chrome/skin/reminderfox/schedule/schedulePersons_80x60x.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aHnEJQEjGTm+tjMepZEifQ==
+SHA1-Digest: lfGArY8iQIgujeBKYKWKQNtFrgE=
+
+Name: components/rmFx_cmdLineHandler4TB.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FOZD2eV0JjCxFhO5SCUyZg==
+SHA1-Digest: cFsVXiiTI2n9ekcWB4GqrRonawo=
+
+Name: defaults/preferences/calDAVmap.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wu1HDZdgtxCA+MZ0kGkOow==
+SHA1-Digest: 9b/qSuNm7U5o+JPGCnIS5ePPgjY=
+
+Name: defaults/preferences/reminderfox.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fk/fUHOrlbVBE5K575h9IQ==
+SHA1-Digest: wSKDB2tmoFxxqSNP0gIZZ6yoR6U=
+
+Name: defaults/printing/Agenda.xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BXq+W9500oi2JeIYXcxg4Q==
+SHA1-Digest: djoTCsATTq1vV8XkTrtC729RY0I=
+
+Name: defaults/printing/Events(All).xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1xJL8Oc4+emcRNSd1EGTmw==
+SHA1-Digest: tgovfkkJIrX2lkJeMf2R+O9UXo0=
+
+Name: defaults/printing/Events(Selected).xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1o0DHFPfn79nDfqbcnK5Tg==
+SHA1-Digest: OXQ+AoDH5bE+Jvmt3ze5DtTGqRQ=
+
+Name: defaults/printing/Installation_Details.xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vcv/yTRvVoN5F2V7sSWbPA==
+SHA1-Digest: XOUeNobPD+uSSYrJkVWcul2WR8E=
+
+Name: defaults/printing/Table[Example].xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z0/QKDCTj4Mhmgr9NaDMKQ==
+SHA1-Digest: mx+DlkA3bMguVMjHpsgkGw5N8IU=
+
+Name: defaults/printing/template[Example].xsl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IEMl2oJt0JwCBMsUSVmPCw==
+SHA1-Digest: V+jQpu6VvfZ/Tt32SG9ApP/bxuI=
+
+Name: defaults/printing/viewAndPrint.htm
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a3TOWzpq/ebqPa2P2vfAgg==
+SHA1-Digest: whonPgIcWcTbhex2e1aQf27//8M=
+
+Name: defaults/printing/icons/@.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KjKFpbexAp+ra/3m/L3AyA==
+SHA1-Digest: 51hCV6jBM44eBxYd7uKK2f7Xo3k=
+
+Name: defaults/printing/icons/alarmbell.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jmfX37rrVuW0l5duyTqTNQ==
+SHA1-Digest: xkZunAA9ABGIh8Im0hBu9tp56lM=
+
+Name: defaults/printing/icons/alarmbellSnooze.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G15fijABuu8NpeyD4n76Ag==
+SHA1-Digest: USrV/tRxJ0+7Zx4hLNnHd/B4CCA=
+
+Name: defaults/printing/icons/category.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rK0YkufjOV2fy8w1GFDx1w==
+SHA1-Digest: pyynGis42MiHVqe5Bon0okiOWhg=
+
+Name: defaults/printing/icons/iCal.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U2lBYI+QQXMToabIxcy00w==
+SHA1-Digest: 7LByJM1T4IRl4BZGtQAaC0dfpo8=
+
+Name: defaults/printing/icons/iCal1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RRcWibqrKTOZp6JZie4dyQ==
+SHA1-Digest: koeJaKqrAUeDycVJov0Uc3I4lv0=
+
+Name: defaults/printing/icons/location.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u5PY19kB26uvVXVKzEB/Jg==
+SHA1-Digest: QxFTXPAbMG4NDMO7ZBncovORwp8=
+
+Name: defaults/printing/icons/mail.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mU5VknYQ8MXTRSesygORKg==
+SHA1-Digest: 9zUToQnjmMzaOVgfk9q6Fz6NP9I=
+
+Name: defaults/printing/icons/notes.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QAwdlNCABKSfuMDllED7SQ==
+SHA1-Digest: PBdI1vNNsy3FpF0eiy1ZColdQKE=
+
+Name: defaults/printing/icons/repeat.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nJ3UzTAg+CMVdL+RgdC1ew==
+SHA1-Digest: XoPAAaD8nSKy3YsMkOsYX3lQ9oA=
+
+Name: defaults/printing/icons/ribbon-blue-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XEjOQPE1z4itABxddwujsQ==
+SHA1-Digest: FhnptScG02X42f1Fc65fYn3PsGE=
+
+Name: defaults/printing/icons/ribbon-red-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +rGwi6CJpxm0ARJZ60ayQQ==
+SHA1-Digest: FI7pu4hrPQxgOIOKpTnmCWBM+U0=
+
+Name: license.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qgyBSDFbjMvri36SVnMCfw==
+SHA1-Digest: Wk1KYRiKVpYpHuHXMdqA6OIpzQI=
+
