@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nSypLxNYj9TBI4PK9TY/nQ==
+SHA1-Digest: DhF4g/lO1kW8hqys7qyN0dzGv2Y=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: di9SKj3AmIZqEFbr5Uiq3g==
+SHA1-Digest: 86fMAfjjJohY8/BWChn4zA4SOXE=
+
+Name: chrome/mnenhy.jar
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t/JyknS6wqs0Tp4T6nodyA==
+SHA1-Digest: dxb5KKKtXjrCWnLtD+POXWYrPQM=
+
+Name: defaults/preferences/mnenhy-preferences.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VV+ha5POqoo/iJOLQPsBkw==
+SHA1-Digest: aPb64pOJbRc1fcU1PtK+9jbqDmA=
+
+Name: modules/mnenhy-version.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 187bDN424wPuW0VihL+n3g==
+SHA1-Digest: gZ7TdDn5A9xlAYkyUiX1/fH+5WM=
+
+Name: modules/mnenhy.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FyHgiQ6PSshqHUODTusPQA==
+SHA1-Digest: j8xpI0pJ7F3Kw1JUAc+TDeoS/jY=
+

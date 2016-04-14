@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:yuck="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    <!-- Mnenhy uuid and version -->
+    <yuck:id>{bf591015-b599-4125-9428-3cb746ddca31}</yuck:id>
+    <yuck:name>Mnenhy</yuck:name>
+    <yuck:version>0.8.6.1-signed.1-let-fixed</yuck:version>
+    <yuck:unpack>true</yuck:unpack>
+    <yuck:type>2</yuck:type>
+    <!-- no custom updateURL, use default (addons.mozilla.org) -->
+
+    <!-- Target Application this extension can install into,
+         with minimum and maximum supported versions. -->
+    <!-- SeaMonkey 2.x -->
+    <yuck:targetApplication>
+      <Description yuck:id="{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}" yuck:minVersion="2.0" yuck:maxVersion="2.26a1"/>
+    </yuck:targetApplication>
+    <!-- Thunderbird -->
+    <yuck:targetApplication>
+      <Description yuck:id="{3550f703-e582-4d05-9a08-453d09bdfdc6}" yuck:minVersion="3.0" yuck:maxVersion="29.0a1"/>
+    </yuck:targetApplication>
+    <!-- Firefox -->
+    <yuck:targetApplication>
+      <Description yuck:id="{ec8030f7-c20a-464f-9b0e-13a3a9e97384}" yuck:minVersion="3.0" yuck:maxVersion="29.0a1"/>
+    </yuck:targetApplication>
+
+    <!-- Front End MetaData -->
+    <yuck:creator>Karsten Düsterloh &lt;kd@mnenhy.de&gt;</yuck:creator>
+    <yuck:localized>
+      <Description yuck:locale="en" yuck:name="Mnenhy" yuck:description="Mozilla enhancements with special focus upon Mail&amp;News" yuck:creator="Karsten Düsterloh &lt;kd@mnenhy.de&gt;" yuck:homepageURL="http://mnenhy.mozdev.org/"/>
+    </yuck:localized>
+    <yuck:localized>
+      <Description yuck:locale="de" yuck:name="Mnenhy" yuck:description="Mozilla-Verbesserungen mit Schwerpunkt auf Mail&amp;News" yuck:creator="Karsten Düsterloh &lt;kd@mnenhy.de&gt;" yuck:homepageURL="http://mnenhy.de/"/>
+    </yuck:localized>
+    <yuck:localized>
+      <Description yuck:locale="fr" yuck:name="Mnenhy" yuck:description="Mozilla enhancements with special focus upon Mail&amp;News" yuck:creator="Karsten Düsterloh &lt;kd@mnenhy.de&gt;" yuck:homepageURL="http://mnenhy.mozdev.org/"/>
+    </yuck:localized>
+    <yuck:localized>
+      <Description yuck:locale="it" yuck:name="Mnenhy" yuck:description="Permette di integrare molteplici funzioni con speciale riguardo a posta e gruppi di discussioni" yuck:creator="Karsten Düsterloh &lt;kd@mnenhy.de&gt;" yuck:homepageURL="http://mnenhy.mozdev.org/"/>
+    </yuck:localized>
+    <!-- yuck:localized>
+      <Description yuck:locale="pl"
+                   yuck:name="Mnenhy"
+                   yuck:description="Mozilla enhancements with special focus upon Mail&#38;News"
+                   yuck:creator="Karsten D&#252;sterloh &#60;kd@mnenhy.de&#62;"
+                   yuck:homepageURL="http://mnenhy.mozdev.org/"/>
+    </yuck:localized -->
+
+    <!-- Front End Integration Hooks (used by Extension Manager) for pref dialog -->
+    <yuck:optionsURL>chrome://mnenhy/content/mnenhy-preferences.xul</yuck:optionsURL>
+    <yuck:optionsType>1</yuck:optionsType>
+    <yuck:iconURL>chrome://mnenhy/content/mnenhy.png</yuck:iconURL>
+  </Description>
+</RDF>

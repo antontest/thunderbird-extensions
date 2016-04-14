@@ -1,0 +1,139 @@
+# ***** BEGIN LICENSE BLOCK *****
+# Version: MPL 1.1/GPL 2.0/LGPL 2.1
+#
+# The contents of this file are subject to the Mozilla Public License Version
+# 1.1 (the "License"); you may not use this file except in compliance with
+# the License. You may obtain a copy of the License at
+# http://www.mozilla.org/MPL/
+#
+# Software distributed under the License is distributed on an "AS IS" basis,
+# WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
+# for the specific language governing rights and limitations under the
+# License.
+#
+# The Original Code is Mnenhy.
+#
+# The Initial Developer of the Original Code is Karsten Düsterloh <kd@mnenhy.de>.
+#
+# Portions created by the Initial Developer are Copyright © 2002-2014
+# the Initial Developer. All Rights Reserved.
+#
+# Contributor(s):
+#
+# Alternatively, the contents of this file may be used under the terms of
+# either the GNU General Public License Version 2 or later (the "GPL"), or
+# the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
+# in which case the provisions of the GPL or the LGPL are applicable instead
+# of those above. If you wish to allow use of your version of this file only
+# under the terms of either the GPL or the LGPL, and not to allow others to
+# use your version of this file under the terms of the MPL, indicate your
+# decision by deleting the provisions above and replace them with the notice
+# and other provisions required by the LGPL or the GPL. If you do not delete
+# the provisions above, a recipient may use your version of this file under
+# the terms of any one of the MPL, the GPL or the LGPL.
+#
+# ***** END LICENSE BLOCK *****
+
+### +-
+### | Mnenhy base module
+### +-
+
+### |
+### | general stuff
+### |
+resource mnenhy modules/
+content mnenhy jar:chrome/mnenhy.jar!/content/
+
+### |
+### | preferences:
+### |
+### mnenhy-preferences.xul is a placeholder called by the preferences button
+### in the extension manager window, it has to be overridden by an application-
+### specific implementation to become real!
+### - SeaMonkey
+override chrome://mnenhy/content/mnenhy-preferences.xul        chrome://mnenhy/content/mnenhy-preferences-sm.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}
+overlay chrome://communicator/content/pref/preferences.xul     chrome://mnenhy/content/mnenhy-preftree.xul        application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}
+### - Thunderbird, Firefox
+override chrome://mnenhy/content/mnenhy-preferences.xul        chrome://mnenhy/content/mnenhy-preferences-tb.xul  application={3550f703-e582-4d05-9a08-453d09bdfdc6} application={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+overlay chrome://mnenhy/content/mnenhy-preferences.xul         chrome://mnenhy/content/mnenhy-preftree.xul        application={3550f703-e582-4d05-9a08-453d09bdfdc6} application={ec8030f7-c20a-464f-9b0e-13a3a9e97384}
+### base prefpanes
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy/content/mnenhy-pref-main.xul
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy/content/mnenhy-pref-history.xul
+
+### |
+### | locales:
+### |
+locale mnenhy de    jar:chrome/mnenhy.jar!/locale/de/
+locale mnenhy en-US jar:chrome/mnenhy.jar!/locale/en-US/
+locale mnenhy fr    jar:chrome/mnenhy.jar!/locale/fr/
+locale mnenhy it    jar:chrome/mnenhy.jar!/locale/it/
+#locale mnenhy pl    jar:chrome/mnenhy.jar!/locale/pl/
+
+
+### +-
+### | custom headers
+### +-
+content mnenhy-headers jar:chrome/mnenhy.jar!/content/headers/
+overlay chrome://messenger/content/msgHdrViewOverlay.xul       chrome://mnenhy-headers/content/mnenhy-headers-msgHdrViewOverlay-sm.xul   application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}
+overlay chrome://messenger/content/msgHdrViewOverlay.xul       chrome://mnenhy-headers/content/mnenhy-headers-msgHdrViewOverlay-tb.xul   application={3550f703-e582-4d05-9a08-453d09bdfdc6} appversion<9
+overlay chrome://messenger/content/msgHdrViewOverlay.xul       chrome://mnenhy-headers/content/mnenhy-headers-msgHdrViewOverlay-tb9.xul  application={3550f703-e582-4d05-9a08-453d09bdfdc6} appversion>=9  platformversion<24
+overlay chrome://messenger/content/msgHdrViewOverlay.xul       chrome://mnenhy-headers/content/mnenhy-headers-msgHdrViewOverlay-tb24.xul application={3550f703-e582-4d05-9a08-453d09bdfdc6} appversion>=24
+overlay chrome://messenger/content/mailWindowOverlay.xul       chrome://mnenhy-headers/content/mnenhy-headers-mailWindowOverlay.xul
+overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://mnenhy-headers/content/mnenhy-headers-messengercompose.xul
+# - SeaMonkey, Thunderbird
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy-headers/content/mnenhy-headers-pref.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a} application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+
+
+### +-
+### | folder storage
+### +-
+content mnenhy-folderstore jar:chrome/mnenhy.jar!/content/folderstore/
+overlay chrome://messenger/content/mailWindowOverlay.xul       chrome://mnenhy-folderstore/content/mnenhy-folderstore-mailWindowOverlay.xul
+# - SeaMonkey, Thunderbird
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy-folderstore/content/mnenhy-folderstore-pref.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a} application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+
+
+### +-
+### | text codecs
+### +-
+content mnenhy-codecs jar:chrome/mnenhy.jar!/content/codecs/
+overlay chrome://chatzilla/content/chatzilla.xul               chrome://mnenhy-codecs/content/mnenhy-codecs-chatzilla.xul
+# SeaMonkey, Thunderbird
+overlay chrome://messenger/content/mailWindowOverlay.xul       chrome://mnenhy-codecs/content/mnenhy-codecs-mailWindowOverlay.xul
+overlay chrome://messenger/content/messengercompose/messengercompose.xul chrome://mnenhy-codecs/content/mnenhy-codecs-messengercompose.xul
+# SeaMonkey
+overlay chrome://navigator/content/navigator.xul               chrome://mnenhy-codecs/content/mnenhy-codecs-navigator.xul
+overlay chrome://navigator/content/viewSourceOverlay.xul       chrome://mnenhy-codecs/content/mnenhy-codecs-viewSourceOverlay.xul
+# Firefox
+overlay chrome://browser/content/browser.xul                   chrome://mnenhy-codecs/content/mnenhy-codecs-navigator.xul
+# Thunderbird, Firefox
+overlay chrome://global/content/viewSource.xul                 chrome://mnenhy-codecs/content/mnenhy-codecs-viewSourceOverlay.xul
+
+
+### +-
+### | junk tools
+### +-
+content mnenhy-junk jar:chrome/mnenhy.jar!/content/junk/
+overlay chrome://messenger/content/mailWindowOverlay.xul       chrome://mnenhy-junk/content/mnenhy-junk-mailWindowOverlay.xul
+overlay chrome://messenger/content/messenger.xul               chrome://mnenhy-junk/content/mnenhy-junk-icons.xul
+# - SeaMonkey, Thunderbird
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy-junk/content/mnenhy-junk-pref.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a} application={3550f703-e582-4d05-9a08-453d09bdfdc6}
+
+
+### +-
+### | mailnews sidebar
+### +-
+#content mnenhy-sidebar jar:chrome/mnenhy.jar!/content/sidebar/
+#overlay chrome://messenger/content/messenger.xul               chrome://mnenhy-sidebar/content/mnenhy-sidebar-messenger.xul     application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}
+#overlay chrome://communicator/content/search/search-panel.xul  chrome://mnenhy-sidebar/content/mnenhy-sidebar-search-panel.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}
+
+
+### +-
+### | mid search
+### +-
+content mnenhy-mids jar:chrome/mnenhy.jar!/content/mids/
+overlay chrome://messenger/content/msgHdrViewOverlay.xul       chrome://mnenhy-mids/content/mnenhy-mids-msgHdrViewOverlay.xul
+overlay chrome://messenger/content/mailWindowOverlay.xul       chrome://mnenhy-mids/content/mnenhy-mids-mailWindowOverlay.xul
+overlay chrome://navigator/content/viewSource.xul              chrome://mnenhy-mids/content/mnenhy-mids-viewSource.xul
+# - SeaMonkey, Thunderbird
+overlay chrome://mnenhy/content/mnenhy-preftree.xul            chrome://mnenhy-mids/content/mnenhy-mids-pref.xul  application={92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a} application={3550f703-e582-4d05-9a08-453d09bdfdc6}
